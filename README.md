@@ -1,9 +1,8 @@
-# Read Me
-Private repository for storing information and backing up information on #United-Kittens-Conflict
+# Welcome!
+## Welcome to the GitHub for the United Kittens!
 
-To continue, you must agree to this license: https://github.com/AmazingCoder78/United-Kittens-Conflict/blob/main/LICENSE
+This is the GitHub for the United Kittens
 
+To continue, you must accept this license: 
 
-Created by CodeRed
-
-DO NOT DISTRIBUTE
+### DO NOT DISTRIBUTE
