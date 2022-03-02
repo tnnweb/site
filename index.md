@@ -12,3 +12,5 @@
 
 ### Contact
 Contact ```@Ianthebestleader``` if you want to submit a feature request or bug report!
+
+This website was made by ```@CodyDaCoder```
