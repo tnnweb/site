@@ -5,4 +5,4 @@ The code for the GitHub pages site
 Updated home page - @CodyDaCoder
 
 
-### DO N0T DISTRIBUTE
+### DO NOT DISTRIBUTE
