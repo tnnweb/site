@@ -1,5 +1,8 @@
 # Meet the team
-### **Ian Boyer**, CEO and President
-### **Nabeel Ahmad**, VEO and Vice President
-### **Ian Boyer**, Monke Man
-### **Robbie Bosch**, Head of Military
+- **Ian Boyer**, President
+- **Nabeel Ahmad**, Vice President
+- **Ryan Tran**, Monke Man
+- **Robbie Bosch**, Head of Military
+- **Greame Chalkley**, Head of Armor (not decided yet)
+- **Holden Donohue**, Security Officer and Website Manager
+- **Lucas Maloney**, Soldier (not decided yet)
