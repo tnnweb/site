@@ -5,7 +5,7 @@
 ### - **Ian Boyer**, President
 ### - **Nabeel Ahmad**, Vice President
 ### - **Ryan Tran**, Monke Man
-### - ~~Robbie Bosch, Head of Military~~
+### - **Robbie Bosch**, Head of Military
 ### - **Greame Chalkley**, Head of Armor (not decided yet)
 
 ### Meet the rest of the team [here!](team.md)
