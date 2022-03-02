@@ -1,4 +1,4 @@
-## Welcome to the United Kittens!
+# Welcome to the United Kittens!
 
 ## Members
 
