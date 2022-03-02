@@ -11,4 +11,4 @@
 ### Meet the rest of the team [here!](team.md)
 
 ### Contact
-Contact @Ianthebestleader if you want to submit a feature request or bug report!
+Contact ```@Ianthebestleader``` if you want to submit a feature request or bug report!
