@@ -12,6 +12,6 @@ The United Kittens of Wakefield was founded on 2/22/2022 by **Ian Boyer** and **
 ### Meet the rest of the team [here!](team.md)
 
 ### Contact
-Contact ```@Ianthebestleader``` if you want to submit a feature request or bug report!
+Contact ```@UnitedKittensSupportBot``` if you want to submit a feature request or bug report!
 
 This website was made by ```@CodyDaCoder```
