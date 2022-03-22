@@ -6,8 +6,7 @@ The United Kittens of Wakefield was founded on 2/22/2022 by **Ian Boyer** and **
 ### - **Ian Boyer**, President
 ### - **Nabeel Ahmad**, Vice President
 ### - **Ryan Tran**, Monke Man
-### - **Robbie Bosch**, Head of Military
-### - **Greame Chalkley**, Head of Armor (not decided yet)
+### - **Holden Donohue**, Director of Tech Ops
 
 ### Meet the rest of the team [here!](team.md)
 
