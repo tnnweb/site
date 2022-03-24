@@ -11,3 +11,6 @@ Once every month we hold a vote for the new party or the same party
 
 ![Image](https://github.com/unitedkittens/site/blob/gh-pages/comucat.jpg)
 ### Commucat (communism)
+
+![Image](https://github.com/unitedkittens/site/blob/gh-pages/republicat.jpg)
+### Republicat (republican)
