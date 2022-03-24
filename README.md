@@ -3,9 +3,9 @@
 
 This is the GitHub for the United Kittens
 
-To continue, you must accept the license. Click [here](https://github.com/unitedkittens/site/blob/main/LICENSE) to get to the license, and agree to it!
-
 ![Image](https://github.com/unitedkittens/site/blob/main/uklogo.jpg)
+
+To continue, you must accept the license. Click [here](https://github.com/unitedkittens/site/blob/main/LICENSE) to get to the license, and agree to it!
 
 The License is licensed by the MIT License
 
