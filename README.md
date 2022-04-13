@@ -1,11 +1,7 @@
-# Welcome!
-## Welcome to the GitHub for the United Kittens!
+# Welcome to TNN Web
+### `Please make sure you are verified by TNNSO before continuing`
 
-This is the GitHub for the United Kittens
-
-![Image](https://github.com/unitedkittens/site/blob/main/uklogo.jpg)
-
-To continue, you must accept the license. Click [here](https://github.com/unitedkittens/site/blob/main/LICENSE) to get to the license, and agree to it!
+Please accept the license. Click [here](https://github.com/unitedkittens/site/blob/main/LICENSE) to get to the license, and agree to it
 
 The License is licensed by the MIT License
 
