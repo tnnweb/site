@@ -1,6 +1,6 @@
 # Welcome!
 The United Kittens of Wakefield was founded on 2/22/2022 by **Ian Boyer** and **Nabeel Ahmad** ( Original Idea Graeme and Nero ) The kittens are meant to be a united boy nation amogus.
-> _Live life the way you want to, but do it the right way_ - Ian Boyer
+> _Don't worry if plan A fails - there are 25 more letters in the alphabet_ - Holden Donohue
 
 ## About us
 We are a nation, formed by Ian Boyer and Nabeel Ahmad on 2/22/2022. We never give up, ever.
